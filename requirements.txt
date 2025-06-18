@@ -3,3 +3,4 @@ PyYAML
 qbittorrent-api
 httpx
 colorama
+transmission-rpc
